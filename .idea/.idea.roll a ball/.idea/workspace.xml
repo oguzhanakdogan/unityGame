@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="799508cb-4fc3-4828-9172-e0f34654ed35" name="Default Changelist" comment="" />
+    <list default="true" id="799508cb-4fc3-4828-9172-e0f34654ed35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.roll a ball/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.roll a ball/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.roll a ball/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.roll a ball/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.roll a ball/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.roll a ball/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MoveCue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MoveCue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Movement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Movement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OrbitCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OrbitCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/collisyon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/collisyon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/sariTop.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/sariTop.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.7.1/Runtime/Core/CinemachineCore.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -15,10 +52,41 @@
         <option value="$PROJECT_DIR$/Assets/yellowBall.cs" />
         <option value="$PROJECT_DIR$/Assets/collisyon.cs" />
         <option value="$PROJECT_DIR$/Assets/sariTop.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/HotbarItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ConsumableItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/IItemContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ItemSlot.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ItemDragHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/InventoryItemDragHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ItemSlotUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ItemContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/InventorySlot.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/InventoryItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/Interactible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/ItemPickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/InventoryActivity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/CurrentItems.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/Equipment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/EquipmentManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/InventoryUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/ItemToolTip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/CurrentInventorySlot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/CurrentInventoryUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/ThirdPersonScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/ClickableButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/ClickableInventoryButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/Inventory_Slot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory/Scripts/ChangeItemMaganer.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1ggsjNt2hCzLpj0PqbyGT9B62ru" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,6 +130,18 @@
       <workItem from="1599082330947" duration="1392000" />
       <workItem from="1599145703183" duration="936000" />
       <workItem from="1599166560196" duration="6814000" />
+      <workItem from="1605761223618" duration="7933000" />
+      <workItem from="1605903394846" duration="599000" />
+      <workItem from="1606243091401" duration="11745000" />
+      <workItem from="1606304567072" duration="15068000" />
+      <workItem from="1607030134324" duration="2438000" />
+      <workItem from="1607087867646" duration="7873000" />
+      <workItem from="1607186898878" duration="3948000" />
+      <workItem from="1607252120761" duration="10104000" />
+      <workItem from="1607287354018" duration="719000" />
+      <workItem from="1607362629885" duration="10627000" />
+      <workItem from="1607423730000" duration="5503000" />
+      <workItem from="1607543223760" duration="756000" />
     </task>
     <servers />
   </component>
@@ -70,13 +150,33 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599170934242">
+    <state x="514" y="64" key="RiderGenerateDialog" timestamp="1607282711634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599170934242" />
+    <state x="514" y="64" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1607282711634" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1607030781366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607030781366" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606328900149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606328900149" />
   </component>
 </project>
